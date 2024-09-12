@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.0 (2024-09-12)
+
+### Breaking
+
+* feat: update the code majorly
+
+BREAKING CHANGE: hello_world2 function removed it cannot be used ([`839aa3f`](https://github.com/jfimbett/mylibrary/commit/839aa3fad3ec637d648054bd0dbb09cf2ab6f88f))
+
 ## v0.1.0 (2024-09-12)
 
 ### Documentation
