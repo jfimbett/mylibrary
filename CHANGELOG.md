@@ -1,7 +1,7 @@
-# Changelog
+# CHANGELOG
 
-<!--next-version-placeholder-->
+## v0.0.0 (2024-09-12)
 
-## v0.0.0 (10/09/2024)
+### Unknown
 
-- First release of `mylibrary`!
+* First commit ([`7f72732`](https://github.com/jfimbett/mylibrary/commit/7f727320ae25e53f34e9405b3a7c088a6ad91c35))
