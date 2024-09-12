@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v0.1.0 (2024-09-12)
+
+### Documentation
+
+* docs(mylibrary): I added some documentation ([`8d577da`](https://github.com/jfimbett/mylibrary/commit/8d577dad252a704eaf692ab70be6b7ff089ed43f))
+
+### Feature
+
+* feat(mylibrary): added a new function ([`e006bbe`](https://github.com/jfimbett/mylibrary/commit/e006bbeac377bfd4c086435eb393628fc46b72e9))
+
 ## v0.0.1 (2024-09-12)
 
 ### Fix
